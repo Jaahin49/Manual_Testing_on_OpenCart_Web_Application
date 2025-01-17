@@ -33,7 +33,7 @@ OpenCart is an e-commerce web application that provides access to registered use
 - This project includes a test plan, mind map, test cases, report, bug report, and test metrics.
 
 ## Test Plan 
-![Test-Plan](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20plan/2025-01-17%2023%2019%2027.png)
+![Test-Plan](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20plan/2025-01-17%2023%2019%2027.png)
 ## Mind Map
 ```
 There are modules, sub-modules, and features inside the mindmap.
