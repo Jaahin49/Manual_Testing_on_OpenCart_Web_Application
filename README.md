@@ -47,7 +47,7 @@ The red boxes represent failed test cases.
 ## Test scenario
 - An SQA test scenario is a specific situation or condition to test software functionality.
 
-![Test-scenario](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Scenario/Test%20Scenario.PNG)
+![Test-scenario](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Scenario/Test%20Scenario.PNG)
 
 ## Test Cases
 - To document the test cases google sheets is used - **WPS Sheets**. 
@@ -69,22 +69,22 @@ No of test cases out of scope - 0
 - Check out the sample photo of test cases
 
 ## Test Cases Register
-![Test-Case](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Case/Test%20case%20Register_page-0001.jpg)
+![Test-Case](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Case/Test%20case%20Register_page-0001.jpg)
 ## Test Cases Login
-![Test-Case](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Case/Test%20case%20Login-page_page-0001.jpg)
+![Test-Case](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Case/Test%20case%20Login-page_page-0001.jpg)
 ## Test Cases logout and Home All Case In Excel Sheet  
-![Test-logout](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Case/Test%20Case%20Logout_page-0001.jpg)
-![Test-Home](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Case/Test%20Case%20Home-Page_page-0001.jpg)
+![Test-logout](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Case/Test%20Case%20Logout_page-0001.jpg)
+![Test-Home](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Case/Test%20Case%20Home-Page_page-0001.jpg)
 ## RTM(Requirements Traceability Matrix) Report
 -Requirements Traceability Matrix (RTM) Report. It's a document that links and traces user requirements with test cases to ensure all requirements are tested and validated.
-![Test-Case-Report-RTM](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/RTM(Requirements%20Traceability%20Matrix)/RTM%20(Opencart)%201_page-0001.png)
+![Test-Case-Report-RTM](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/RTM(Requirements%20Traceability%20Matrix)/RTM%20(Opencart)%201_page-0001.png)
 ## Test Report
-![Test-Case-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test-Report/2025-01-17%2023%2012%2031.png)
-![Test-Case-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test-Report/Test-Report1_page-0001.jpg)
+![Test-Case-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test-Report/2025-01-17%2023%2012%2031.png)
+![Test-Case-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test-Report/Test-Report1_page-0001.jpg)
 ## Bug Report
-![Bug-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Bug%20Report/Bug-Report_page-0001.jpg)
+![Bug-Report](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Bug%20Report/Bug-Report_page-0001.jpg)
 ## Test Metrics
-![Test-Metrics](https://github.com/Jaahin49/Manual_Testing_on_OpenCart-Web_Application/blob/main/Test%20Matrics/Test-Matrics.png)
+![Test-Metrics](https://github.com/Jaahin49/Manual_Testing_on_OpenCart_Web_Application/blob/main/Test%20Matrics/Test-Matrics.png)
 ## Version Control
 
 [GitHub](http://github.com/) is used for versioning. 
